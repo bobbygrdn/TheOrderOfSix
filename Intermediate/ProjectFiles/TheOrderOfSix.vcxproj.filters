@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\TheOrderOfSix.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{716FFE9A-019B-48A1-B15A-3C4DE975BB8D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TheOrderOfSix.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\TheOrderOfSixEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{787AD7A8-FD12-46A4-B03F-C52E3FEAA418}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\TheOrderOfSix">
+      <UniqueIdentifier>{57817053-C1E6-415F-82CA-DF51FA264508}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TheOrderOfSix\TheOrderOfSix.Build.cs">
+      <Filter>Source\TheOrderOfSix</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\TheOrderOfSix\TheOrderOfSix.cpp">
+      <Filter>Source\TheOrderOfSix</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheOrderOfSix\TheOrderOfSix.h">
+      <Filter>Source\TheOrderOfSix</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TheOrderOfSix\TheOrderOfSixCharacter.cpp">
+      <Filter>Source\TheOrderOfSix</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheOrderOfSix\TheOrderOfSixCharacter.h">
+      <Filter>Source\TheOrderOfSix</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TheOrderOfSix\TheOrderOfSixGameMode.cpp">
+      <Filter>Source\TheOrderOfSix</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheOrderOfSix\TheOrderOfSixGameMode.h">
+      <Filter>Source\TheOrderOfSix</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

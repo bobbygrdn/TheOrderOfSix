@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "TheOrderOfSix",
+			"Path": "C:\\Users\\bobby\\OneDrive\\Documents\\Unreal Projects\\TheOrderOfSix\\Source\\TheOrderOfSix.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TheOrderOfSixEditor",
+			"Path": "C:\\Users\\bobby\\OneDrive\\Documents\\Unreal Projects\\TheOrderOfSix\\Source\\TheOrderOfSixEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

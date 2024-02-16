@@ -1,0 +1,2 @@
+C:\Users\bobby\OneDrive\Documents\Unreal Projects\TheOrderOfSix\Intermediate\Build\Win64\UE4Editor\Development\TheOrderOfSix\Definitions.TheOrderOfSix.h
+C:\Users\bobby\OneDrive\Documents\Unreal Projects\TheOrderOfSix\Source\TheOrderOfSix\TheOrderOfSix.h
